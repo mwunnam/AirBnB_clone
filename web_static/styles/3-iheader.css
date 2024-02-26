@@ -1,13 +1,10 @@
-header{
-    background-color: white;
+header {
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
     display: flex;
     align-items: center;
-    padding-left: 20px;
     display: flex;
-    padding-left: 20px;
 }
 
 .logo {
@@ -16,5 +13,8 @@ header{
     background-repeat: contain;
     width: 150px;
     height: 70px;
+    margin-top: 10px;
+    margin-left: 20px;
+
 }
 

@@ -65,7 +65,7 @@ list-style: none;
     background-color: #FAFAFA;
     border: solid #DDDDDD 1px;
     position: relative;
-    top: 25%;
+    top: 28%;
     visibility: hidden;
 }
 .location:hover >.popover {
@@ -85,7 +85,6 @@ list-style: none;
 .pop2 li{
 margin: 10px 30px;
 }
-
 
 
 
