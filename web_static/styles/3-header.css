@@ -4,17 +4,13 @@ header {
     border-bottom: 1px solid #CCCCCC;
     display: flex;
     align-items: center;
-    display: flex;
 }
-
 .logo {
     background-image: url("../images/logo.png");
     background-repeat: no-repeat;
     background-repeat: contain;
     width: 150px;
     height: 70px;
-    margin-top: 10px;
-    margin-left: 20px;
+    margin: 10px 0px 0px 20px;
 
 }
-
