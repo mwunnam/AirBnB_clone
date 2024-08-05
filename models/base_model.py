@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+''' Base Model for AirBnB clone '''
 import uuid
 from datetime import datetime
 
